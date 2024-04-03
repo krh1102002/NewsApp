@@ -1,6 +1,6 @@
 # Angular NewsApp
 
-![Angular NewsApp](https://drive.google.com/uc?export=view&id=1zNfNRrqL4ZJbJ2gfgRnkNvTmFi-78COt)
+![Angular NewsApp](https://drive.google.com/file/d/1t4sscaI6ky0CAgbaWp2uc0E4xLeHy-SM/view?usp=sharing)
 
 Angular NewsApp is a cutting-edge news aggregation web application that brings together news from various sources into one easy-to-navigate platform. Built with Angular, this app leverages the framework's powerful features for a reactive and interactive user experience, making staying informed on global and local news more accessible than ever.
 
